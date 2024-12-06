@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">grocery application</string>
+    <string name="let_us_go_through_the">Let us go through the</string>
+    <string name="best_grocery_items">best grocery items</string>
+    <string name="welcome_to_your_one_stop_shop_for_all_your_grocery_needs_conveniently_at_your_fingertips">Welcome to your one-stop shop for all your grocery needs, conveniently at your fingertips!</string>
+    <string name="are_you_a_registered_user_sign_in">Are you a registered User? Login In</string>
+    <string name="let_s_start">Let\'s Start</string>
+</resources>
